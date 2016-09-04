@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<layouttype>This file has been removed.</layouttype>
+
+
+<channels>
+<channel>
+<name>Disclaimer</name>
+<thumbnail>http://stu.westga.edu/~tcooper1/Profdevtmc/images/ReadMeFirst.jpg</thumbnail>
+<externallink>http://goo.gl/8NrZ0f</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Canales P.R.</name>
+<thumbnail>http://goo.gl/PYr8Qn</thumbnail>
+<externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/Stalker-Duki-PR.xml</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Canales Espanol</name>
+<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Deportes</name>
+<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Canales Para Ninos</name>
+<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Kids Enlish Channels</name>
+<thumbnail>http://thepersonalgolfcoach.com/images/NewRules_RedZoneTest_logo_B.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>USA Channels</name>
+<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>UK Channels</name>
+<thumbnail>http://thepersonalgolfcoach.com/images/NewRules_RedZoneTest_logo_B.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+
+
+<!!--channel>
+<name>Movies</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail></thumbnail>
+<externallink>http://wwuwbox.com/UWPpaiM/__movmenu.xml</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Special Events 2</name>
+<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
+<externallink>http://wwuwbox.com/UWPpaiM/__se.m3u</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
