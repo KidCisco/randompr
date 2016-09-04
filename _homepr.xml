@@ -14,7 +14,7 @@
 
 <channel>
 <name>Canales P.R.</name>
-<thumbnail></thumbnail>
+<thumbnail>http://thebestrokuchannels.com/images/The-Puerto-Rico-Channel.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/Stalker-Duki-PR.xml</externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
@@ -22,7 +22,7 @@
 
 <channel>
 <name>Canales Espanol</name>
-<thumbnail></thumbnail>
+<thumbnail>https://wtneary.files.wordpress.com/2013/04/xfinitylatino12logos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/Stalker-Duki-Esp.xml</externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
@@ -30,23 +30,23 @@
 
 <channel>
 <name>Deportes</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>http://www.xsusnet.net/mecalibre/Canales-Deportivos-watermar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/Stalker-Duki-Deportes.xml</externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
 </channel>
 
 <channel>
 <name>Canales Para Ninos</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>http://www.tube4kids.com/wp-content/uploads/2016/03/eNvall10JHI-960x540.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/Stalker-Duki-Ninos.xml</externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
 </channel>
 
 <channel>
 <name>Kids Enlish Channels</name>
-<thumbnail></thumbnail>
+<thumbnail>https://kidschannelofficial.files.wordpress.com/2015/10/01.jpg?w=261&h=261&crop=1</thumbnail>
 <externallink></externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
@@ -54,7 +54,7 @@
 
 <channel>
 <name>USA Channels</name>
-<thumbnail></thumbnail>
+<thumbnail>http://appbalo.com/wp-content/uploads/2014/08/Live-USA-Channels.png</thumbnail>
 <externallink></externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
@@ -62,7 +62,7 @@
 
 <channel>
 <name>UK Channels</name>
-<thumbnail></thumbnail>
+<thumbnail>http://cdn7.staztic.com/app/a/8272/8272267/uk-live-tv-channels-1-1-s-307x512.jpg</thumbnail>
 <externallink></externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
