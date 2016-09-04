@@ -5,8 +5,15 @@
 
 
 <item>
-<title>[COLOR blue]                 <<<<<[/COLOR][COLOR lime]    Canales en Espanol    [/COLOR][COLOR blue]>>>>>[/COLOR]</title>
+<title>[COLOR blue]                 <<<<<[/COLOR][COLOR lime]    DEPORTES EN ESPANOL    [/COLOR][COLOR blue]>>>>>[/COLOR]</title>
 <link>http://mytitle.box</link>
 <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bein Sports LatinoAmerica</title>
+<link>http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1239.png</thumbnail>
 <fanart></fanart>
 </item>
