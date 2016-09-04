@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<layouttype>This file has been removed.</layouttype>
+
+
+
+<item>
+<title>[COLOR blue]                 <<<<<[/COLOR][COLOR lime]    CANALES P.R.   [/COLOR][COLOR blue]>>>>>[/COLOR]</title>
+<link>http://mytitle.box</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telemundo</title>
+<link>http://freedom.duki.me/LIVE/H02/TelemundoPR/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Punto 2</title>
+<link>http://freedom.duki.me/LIVE/H02/TelemundoPunto2/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Univision</title>
+<link>http://freedom.duki.me/LIVE/H02/UnivisionPR/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WAPA</title>
+<link>http://freedom.duki.me/LIVE/H02/WAPAPR/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>WAPA 2</title>
+<link>http://freedom.duki.me/LIVE/H02/WPA2PR/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
