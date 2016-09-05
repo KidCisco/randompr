@@ -37,7 +37,7 @@
 </channel>
 
 <channel>
-<name>Canales Para Ninos</name>
+<name>Canales Para Niños</name>
 <thumbnail>http://www.star.mx/jupgrade/images/Planes/Plan4/canales-ninos4.jpg</thumbnail>
 <externallink>http://goo.gl/y6b2De</externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
@@ -75,40 +75,6 @@
 <externallink></externallink>
 <fanart>http://goo.gl/GYAQvA</fanart>
 <info>CiscoKid.box</info>
-</channel>
-
-
-
-<!!--channel>
-<name>Movies</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Movies</name>
-<thumbnail></thumbnail>
-<externallink>http://wwuwbox.com/UWPpaiM/__movmenu.xml</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Special Events 2</name>
-<thumbnail>http://goo.gl/r4Yqh2</thumbnail>
-<externallink>http://wwuwbox.com/UWPpaiM/__se.m3u</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>SimpleKore.com</info>
 </channel>
 
 </channels>
