@@ -465,3 +465,31 @@
 <thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/659.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Showtime West</title>
+<link>http://freedom.duki.me/LIVE/H02/ShowtimeWestUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/555.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Movie Channel</title>
+<link>http://freedom.duki.me/LIVE/H02/SonyMovieChannelUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/671.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Spike US</title>
+<link>http://freedom.duki.me/LIVE/H02/SpikeUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1620.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Starz Cinema East US</title>
+<link>http://freedom.duki.me/LIVE/H02/StarzCinemaEastUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/573.png</thumbnail>
+<fanart></fanart>
+</item>

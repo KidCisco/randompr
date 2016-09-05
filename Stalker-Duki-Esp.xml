@@ -446,4 +446,24 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Paramount Channel LatinoAmerica</title>
+<link>http://freedom.duki.me/LIVE/H02/ParamountChannelLatinAmericaHD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/18.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony LatinoAmerica</title>
+<link>http://freedom.duki.me/LIVE/H02/SonyLA/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/837.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Space LatinoAmerica</title>
+<link>http://freedom.duki.me/LIVE/H02/SpaceLA/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/835.png</thumbnail>
+<fanart></fanart>
+</item>
 
