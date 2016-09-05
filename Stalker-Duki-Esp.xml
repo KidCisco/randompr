@@ -467,3 +467,38 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Telemundo East US</title>
+<link>http://freedom.duki.me/LIVE/H02/TelemundoEastUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/815.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telemundo Los Angeles</title>
+<link>http://freedom.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3493.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telemundo SD - Offline</title>
+<link>http://freedom.duki.me/LIVE/H02/TelemundoSD/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Univision East US</title>
+<link>http://freedom.duki.me/LIVE/H02/UnivisionEastUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/98.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Univision Los Angeles</title>
+<link>http://freedom.duki.me/LIVE/H02/UnivisionLosAngeles/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3523.png</thumbnail>
+<fanart></fanart>
+</item>
+
