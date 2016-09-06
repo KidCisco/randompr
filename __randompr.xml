@@ -29,7 +29,13 @@
 <info>CiscoKid.box</info>
 </channel>
 
-
+<channel>
+<name>[COLOR blue]<<<<<[/COLOR][COLOR lightgreen]Some of these lists are not stable, they come and go.[/COLOR][COLOR blue]>>>>>[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://ciscokid.box</externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
 
 <channel>
 <name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR lime] 1[/COLOR] Adryan TP Español</name>
@@ -48,9 +54,9 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR] - Offline</name>
+<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR] - English</name>
 <thumbnail>http://goo.gl/Muq6A0</thumbnail>
-<externallink>http://newlink8398q3.gm</externallink>
+<externallink>http://goo.gl/rtAY4f</externallink>
 <fanart></fanart>
 <info>CiscoKid.box</info>
 </channel>
