@@ -23,7 +23,7 @@
 
 <item>
 <title>CNET Pre-Event - Apple Event San Francisco</title>
-<link>http://api.new.livestream.com/accounts/687825/events/6262224/broadcasts/135047161.m3u8?dw=100&hdnea=st=1473264402~exp=1473266202~acl=/i/687825_6262224_lsifdbi400lx501z9rj_1@305999/*~hmac=a586e0fa57b1dfc1872eef9c63a17818e1d5ef6e959b1b0e7a2219a5a74886fa</link>
+<link>http://livestream-f.akamaihd.net/i/687825_6262224_lsifdbi400lx501z9rj_1@305999/master.m3u8?__b__=678&dw=100&hdnea=st=1473264402~exp=1473266202~acl=/i/687825_6262224_lsifdbi400lx501z9rj_1@305999/*~hmac=a586e0fa57b1dfc1872eef9c63a17818e1d5ef6e959b1b0e7a2219a5a74886fa&__a__=off</link>
 <thumbnail>http://i.amz.mshcdn.com/RQpY4k_M9q1f6gdqfp9NrilQcK8=/950x534/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F201854%2FScreen_Shot_2016-09-06_at_2.39.11_PM.jpg</thumbnail>
 <fanart></fanart>
 </item>
