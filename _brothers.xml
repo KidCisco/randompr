@@ -14,16 +14,16 @@
 
 <channel>
 <name>Brother 1: IPTVPR</name>
-<thumbnail></thumbnail>
+<thumbnail>http://goo.gl/cdwn29</thumbnail>
 <externallink>http://intrcomp.com/Plugins/xml/iptv_borikeniptvmenu_randompr.xml</externallink>
-<fanart></fanart>
+<fanart>http://goo.gl/cdwn29</fanart>
 <info>CiscoKid.box</info>
 </channel>
 
 <channel>
 <name>Brother 2: RACETV</name>
-<thumbnail></thumbnail>
+<thumbnail>http://goo.gl/lvvVND</thumbnail>
 <externallink>http://intrcomp.com/Plugins/xml/racetv/racetvlocales.xml</externallink>
-<fanart></fanart>
+<fanart>http://goo.gl/lvvVND</fanart>
 <info>CiscoKid.box</info>
 </channel>
