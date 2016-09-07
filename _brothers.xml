@@ -6,7 +6,7 @@
 <channels>
 <channel>
 <name>[COLOR blue]                 <<<<<[/COLOR][COLOR lime]    BROTHERHOOD   [/COLOR][COLOR blue]>>>>>[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</thumbnail>
 <externallink>http:nolink.no</externallink>
 <fanart>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</fanart>
 <info>CiscoKid.box</info>
@@ -15,7 +15,7 @@
 <channel>
 <name>Brother 1: IPTVPR</name>
 <thumbnail>http://goo.gl/cdwn29</thumbnail>
-<externallink>http://intrcomp.com/Plugins/xml/iptv_borikeniptvmenu_randompr.xml</externallink>
+<externallink>http://goo.gl/JJvFEq</externallink>
 <fanart>http://goo.gl/cdwn29</fanart>
 <info>CiscoKid.box</info>
 </channel>
@@ -23,7 +23,7 @@
 <channel>
 <name>Brother 2: RACETV</name>
 <thumbnail>http://goo.gl/lvvVND</thumbnail>
-<externallink>http://intrcomp.com/Plugins/xml/racetv/racetvlocales.xml</externallink>
+<externallink>http://goo.gl/YTMIMM</externallink>
 <fanart>http://goo.gl/lvvVND</fanart>
 <info>CiscoKid.box</info>
 </channel>
