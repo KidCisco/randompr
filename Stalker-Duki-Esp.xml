@@ -468,6 +468,41 @@
 </item>
 
 <item>
+<title>Studio Universal SD</title>
+<link>http://tmp.duki.me/LIVE/H02/StudioUniversalSD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/167.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sundance LatinoAmerica - Offline</title>
+<link>http://tmp.duki.me/LIVE/H02/SundanceLA/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/621.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SyFy LatinoAmerica SD</title>
+<link>http://tmp.duki.me/LIVE/H02/SyFyLASD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/145.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS LatinoAmerica SD</title>
+<link>http://tmp.duki.me/LIVE/H02/TBSLASD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/553.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TCM LatinoAmerica SD</title>
+<link>http://tmp.duki.me/LIVE/H02/TCMSD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/225.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Telemundo East US</title>
 <link>http://freedom.duki.me/LIVE/H02/TelemundoEastUS/master.m3u8</link>
 <thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/815.png</thumbnail>
@@ -485,6 +520,34 @@
 <title>Telemundo SD - Offline</title>
 <link>http://freedom.duki.me/LIVE/H02/TelemundoSD/master.m3u8</link>
 <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telecentro RD LatinoAmerica</title>
+<link>http://tmp.duki.me/LIVE/H02/TeleCentroRDLA/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telemicro LatinoAmerica</title>
+<link>http://tmp.duki.me/LIVE/H02/TelemicroLA/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC LatinoAmerica SD</title>
+<link>http://tmp.duki.me/LIVE/H02/TLCLASD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/149.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT LatinoAmerica HD</title>
+<link>http://tmp.duki.me/LIVE/H02/TNTAmericaLatinaHD/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/37.png</thumbnail>
 <fanart></fanart>
 </item>
 

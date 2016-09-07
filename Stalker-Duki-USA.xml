@@ -585,4 +585,46 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>SyFy US</title>
+<link>http://tmp.duki.me/LIVE/H02/SyFyUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3120.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBS East US</title>
+<link>http://tmp.duki.me/LIVE/H02/TBSEastUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/553.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TCM US</title>
+<link>http://tmp.duki.me/LIVE/H02/TCMUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/675.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TLC US</title>
+<link>http://tmp.duki.me/LIVE/H02/TLC.stream/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/104.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TNT Drama US</title>
+<link>http://tmp.duki.me/LIVE/H02/TNTDramaUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/565.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV Land</title>
+<link>http://tmp.duki.me/LIVE/H02/TVLand/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3117.png</thumbnail>
+<fanart></fanart>
+</item>
+
 
