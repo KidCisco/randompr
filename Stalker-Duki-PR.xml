@@ -12,36 +12,43 @@
 </item>
 
 <item>
+<title>MegaTV</title>
+<link>http://tmp.duki.me/LIVE/H02/MegaTVUS/master.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3641.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Telemundo</title>
 <link>http://freedom.duki.me/LIVE/H02/TelemundoPR/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2989.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Punto 2</title>
 <link>http://freedom.duki.me/LIVE/H02/TelemundoPunto2/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3086.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Univision</title>
 <link>http://freedom.duki.me/LIVE/H02/UnivisionPR/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2994.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>WAPA</title>
 <link>http://freedom.duki.me/LIVE/H02/WAPAPR/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2996.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>WAPA 2</title>
 <link>http://freedom.duki.me/LIVE/H02/WPA2PR/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2991.png</thumbnail>
 <fanart></fanart>
 </item>
