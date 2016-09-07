@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<layouttype>This file has been removed.</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR blue]                 <<<<<[/COLOR][COLOR lime]    BROTHERHOOD   [/COLOR][COLOR blue]>>>>>[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http:nolink.no</externallink>
+<fanart>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Brother 1</name>
+<thumbnail></thumbnail>
+<externallink>http://intrcomp.com/Plugins/xml/iptv_borikeniptvmenu_randompr.xml</externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Brother 2</name>
+<thumbnail></thumbnail>
+<externallink>http://intrcomp.com/Plugins/xml/racetv/racetvlocales.xml</externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
