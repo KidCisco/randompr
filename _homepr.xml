@@ -78,6 +78,14 @@
 </channel>
 
 <channel>
+<name>Random P.R. Brothers</name>
+<thumbnail>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KidCisco/randompr/master/_brothers.xml</externallink>
+<fanart>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
 <name>Random Lists</name>
 <thumbnail>http://goo.gl/Muq6A0</thumbnail>
 <externallink>http://goo.gl/WKAhKM</externallink>
