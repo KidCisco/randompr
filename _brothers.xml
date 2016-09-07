@@ -13,7 +13,7 @@
 </channel>
 
 <channel>
-<name>Brother 1</name>
+<name>Brother 1: IPTVPR</name>
 <thumbnail></thumbnail>
 <externallink>http://intrcomp.com/Plugins/xml/iptv_borikeniptvmenu_randompr.xml</externallink>
 <fanart></fanart>
@@ -21,7 +21,7 @@
 </channel>
 
 <channel>
-<name>Brother 2</name>
+<name>Brother 2: RACETV</name>
 <thumbnail></thumbnail>
 <externallink>http://intrcomp.com/Plugins/xml/racetv/racetvlocales.xml</externallink>
 <fanart></fanart>
