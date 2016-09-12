@@ -54,37 +54,12 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR]  - English (Updated 9/10/16)</name>
+<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR]  - English</name>
 <thumbnail>http://goo.gl/Muq6A0</thumbnail>
-<externallink>http://goo.gl/rtAY4f</externallink>
-<fanart></fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-
-
-<!!--channel>
-<name>Movies</name>
-<thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info>CiscoKid.box</info>
 </channel>
 
-<channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>[COLOR blue]<<<<<[/COLOR][COLOR lime]We do not mantain this list[/COLOR][COLOR blue]>>>>>[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>http://ciscokid.box</externallink>
-<fanart></fanart>
-<info>CiscoKid.box</info>
-</channel>
 
 </channels>
